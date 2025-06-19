@@ -7,9 +7,9 @@ body {
 }
 
 :root {
-  --bg: #fac3e8;
+  --bg: #d9d9d9be;
   --text: #222;
-  --card: #f4c0ed;
+  --card: #d9d9d9be;
 }
 .h2{
   text-align: center;
