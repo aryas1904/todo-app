@@ -7,9 +7,9 @@ body {
 }
 
 :root {
-  --bg: #f5bfe2;
+  --bg: #d9d9d9be;
   --text: #222;
-  --card: #ffc7ee;
+  --card: #d9d9d9be;
 }
 
 .dark {
